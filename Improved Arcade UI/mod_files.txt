@@ -1,1 +1,5 @@
+add Banners/raw/ui/rpl_texture_arcade.pac
+add BannersNames/raw/ui/rpl_texture_arcade.pac
+add Names/raw/ui/rpl_texture_arcade.pac
+add None/raw/ui/rpl_texture_arcade.pac
 add mod.ini
